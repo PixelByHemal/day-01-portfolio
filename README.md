@@ -8,7 +8,7 @@
 - Created About, Social Links & Projects sections
 
 ### 🔗 Links
-- Live Demo: https://PixelByHemal.github.io/day-01-portfolio
+- Live Demo: (https://github.com/PixelByHemal/day-01-portfolio?tab=readme-ov-file)
 - Tweet: (https://x.com/PixelByHemal)
 
 ---
